@@ -5,6 +5,7 @@
   <link rel="stylesheet" href="/assets/css/rest.css" type="text/css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bootstrap Site</title>
+  <script src="/assets/js/rest.js"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>  
@@ -14,7 +15,7 @@
         <h1 class="display-4 text-white" >Bonjour</h1>
         <p class="lead text-white">Promos du mercredi!</p>
         <hr class="my-4">
-        <p class="text-white">Toutes nos pizzas sont à 7 euros aujourd'hui</p>
+        <p class="text-white">Toutes nos pizzas sont à 7 euros le mercredi.</p>
         <p class="lead">
           <a class="btn btn-success btn-lg mb-3 border border-light" href="/menu.html" role="button">Notre carte</a>
         </p>
@@ -46,7 +47,7 @@
                 <a class="nav-link" href="/menu.html">Menu</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="/contact.html">Contact</a>
               </li>
           </ul>
         </div>
@@ -79,6 +80,9 @@
         </p>
     </div>
 </div>
-
+<footer>  <audio id= "audio1" controls="controls" autoplay onloadeddata="setHalfVolume()">
+  <source src="/fichier.mp3"  type="audio/mp3">
+</audio>
+</footer>
 </body>
 </html>
