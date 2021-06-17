@@ -47,29 +47,29 @@ Du 16 juin 2021 au 18 juin 2021 (remise à 16h) dans le cadre du parcours du fra
  
 # Images utilisées : 
  
-* image 1 : https://www.bonappetit.com/recipe/lobster-pasta
+* image 1 : https://pixabay.com/fr/photos/spaghettis-p%c3%a2tes-fruits-de-mer-3907295/
  
-* image 2 : https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,h_130,f_auto,g_auto,q_auto,dpr_auto,c_fill/p3kusmc7xftkrnszpowo
+* image 2 : https://pixabay.com/fr/photos/pizza-pierre-four-%c3%a0-pizza-1344720/
  
-* image 3 : https://www.tripadvisor.fr/Restaurant_Review-g187770-d4411758-Reviews-or10-La_Piccola_Pizzeria-Pescara_Province_of_Pescara_Abruzzo.html
+* image 3 : https://pixabay.com/fr/photos/pizza-fromage-la-mozzarella-tomate-5311269/
  
-* image 4 : https://www.thekitchn.com/how-to-make-really-good-pizza-at-home-cooking-lessons-from-the-kitchn-178384
+* image 4 : https://pixabay.com/fr/photos/pizza-pepperoni-pizza-au-pepperoni-1179404/
  
 * image 5 : https://ldbpac.ca/pac-sponsored-lunch-pizza-and-popsicles/
  
-* image 6 : https://cocinarrecetasdepostres.net/fr/pates-au-poulet-avec-fromage-ranchero/
+* image 6 : https://pixabay.com/fr/photos/alimentaire-repas-p%c3%a2tes-5037799/
  
-* image 7 : https://larecette.net/one-pot-pasta-poulet-creme/
+* image 7 : https://pixabay.com/fr/photos/p%c3%a2tes-brocoli-l-ail-bacon-4423988/
  
-* image 8 : https://pl.wikipedia.org/wiki/Pizza_w_stylu_nowojorskim
+* image 8 : https://pixabay.com/fr/photos/pizzas-au-feu-de-bois-pizza-cuire-2645327/
  
-* image 9 : https://photo.femmeactuelle.fr/magique-le-one-pot-pasta-11528
+* image 9 : https://pixabay.com/fr/photos/spaghetti-nouilles-bolognaise-1987454/
  
-* image 10 : https://www.cuisineactuelle.fr/recettes/pasta-al-tonno-e-al-prezzemolo-256437
+* image 10 : https://pixabay.com/fr/photos/penne-nouilles-p%c3%a2tes-alimentaires-2243258/
  
 * image 11 : https://www.nationaltrust.org.uk/recipes/pizza
  
-* image 12 : https://www.marmiton.org/recettes/recette_tiramisu-au-cafe-d-audrey_166968.aspx
+* image 12 : https://pixabay.com/fr/photos/tiramisu-dessert-tiramisu-2897900/
  
 * image 13 : https://toulousesecret.com/camurria/
  
