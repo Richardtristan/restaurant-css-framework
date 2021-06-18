@@ -48,25 +48,19 @@
 }
 
 .bouton1 button {
-  -webkit-transition: background-color 0.5s, -webkit-transform 0.5s;
-  transition: background-color 0.5s, -webkit-transform 0.5s;
-  transition: background-color 0.5s, transform 0.5s;
-  transition: background-color 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  text-decoration: none;
+  color: white;
+  -webkit-transition: background-color 0.5s, color 0.5s, -webkit-transform 0.5s;
+  transition: background-color 0.5s, color 0.5s, -webkit-transform 0.5s;
+  transition: background-color 0.5s, transform 0.5s, color 0.5s;
+  transition: background-color 0.5s, transform 0.5s, color 0.5s, -webkit-transform 0.5s;
 }
 
 .bouton1 button:hover {
+  color: #28a745;
   background-color: white;
   -webkit-transform: scale(1.2, 1.2);
           transform: scale(1.2, 1.2);
-}
-
-.bouton1 a {
-  text-decoration: none;
-  color: white;
-}
-
-.bouton1 a:hover {
-  color: #28a745;
 }
 
 img {

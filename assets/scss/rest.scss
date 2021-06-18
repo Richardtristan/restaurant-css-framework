@@ -46,17 +46,13 @@
 
     .bouton1{
         button{
-            transition: background-color 0.5s, transform 0.5s;
-            &:hover{
-                background-color: white;
-                transform: scale(1.2, 1.2);
-            }
-        }
-        a{
             text-decoration: none;
             color: white;
+            transition: background-color 0.5s, transform 0.5s, color 0.5s;
             &:hover{
-                color: #28a745 ;
+                color: #28a745;
+                background-color: white;
+                transform: scale(1.2, 1.2);
             }
         }
     }
