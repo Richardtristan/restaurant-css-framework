@@ -62,3 +62,13 @@
             transform: scale(1.5, 1.5);
         }
     }
+
+    .buton3{
+        button{
+            transition: transform 0.5s;
+            &:hover{
+                transform: scale(1.2, 1.2);
+            }
+        }
+        
+    }

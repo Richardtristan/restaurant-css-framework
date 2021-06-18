@@ -78,4 +78,16 @@ img {
   -webkit-transform: scale(1.5, 1.5);
           transform: scale(1.5, 1.5);
 }
+
+.buton3 button {
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+}
+
+.buton3 button:hover {
+  -webkit-transform: scale(1.2, 1.2);
+          transform: scale(1.2, 1.2);
+}
 /*# sourceMappingURL=rest.css.map */
