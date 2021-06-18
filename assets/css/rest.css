@@ -40,6 +40,13 @@
   background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, white 25%, white 75%, rgba(255, 255, 255, 0) 100%);
 }
 
+.jumhr2 {
+  width: 70%;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(25%, black), color-stop(75%, black), to(rgba(0, 0, 0, 0)));
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, black 25%, black 75%, rgba(0, 0, 0, 0) 100%);
+  margin-bottom: 15px;
+}
+
 .bouton1 button {
   -webkit-transition: background-color 0.5s, -webkit-transform 0.5s;
   transition: background-color 0.5s, -webkit-transform 0.5s;
@@ -89,5 +96,10 @@ img {
 .buton3 button:hover {
   -webkit-transform: scale(1.2, 1.2);
           transform: scale(1.2, 1.2);
+}
+
+.itmenu {
+  font-style: italic;
+  color: #727272;
 }
 /*# sourceMappingURL=rest.css.map */

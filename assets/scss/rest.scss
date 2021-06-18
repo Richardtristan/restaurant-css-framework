@@ -34,6 +34,16 @@
         rgba(255, 255, 255, 0) 100%);
     }
 
+    .jumhr2{
+        width: 70%;
+        background: linear-gradient(90deg,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 1) 25%,
+        rgba(0, 0, 0, 1) 75%,
+        rgba(0, 0, 0, 0) 100%);
+        margin-bottom: 15px;
+    }
+
     .bouton1{
         button{
             transition: background-color 0.5s, transform 0.5s;
@@ -71,4 +81,9 @@
             }
         }
         
+    }
+
+    .itmenu{
+        font-style: italic;
+        color: rgb(114, 114, 114);
     }
